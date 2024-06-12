@@ -1,7 +1,19 @@
 {
   "boarding":[
-    { "slide":"https://raw.githubusercontent.com/Jpay168/japriv2/main/banneri/boarding_1.png"},
-    { "slide":"https://raw.githubusercontent.com/Jpay168/japriv2/main/banneri/boarding_2.png"},
-    { "slide":"https://raw.githubusercontent.com/Jpay168/japriv2/main/banneri/boarding_3.png"}
+    { 
+      "title":"Kirim uang & Bayar Tagihan",
+      "desc":"Alihkan semua transaksimu dalam satu genggaman, dan rasakan keuntungan lebih dengan menggunakan Japri Pay",
+      "image":"https://raw.githubusercontent.com/Jpay168/japriv2/main/banneri/banner_start_1.png"
+    },
+     { 
+      "title":"Bonus Cashback",
+      "desc":"Banyak bonus cashback yang bisa di claim untuk para co-founder",
+      "image":"https://raw.githubusercontent.com/Jpay168/japriv2/main/banneri/banner_start_1.png"
+    },
+    { 
+      "title":"Beragam tawaran & tips",
+      "desc":"Dapatkan ragam tawaran & tips berbisnis yang menarik di Japri Pay",
+      "image":"https://raw.githubusercontent.com/Jpay168/japriv2/main/banneri/banner_start_1.png"
+    },
   ]
 }
