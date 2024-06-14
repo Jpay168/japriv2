@@ -1,18 +1,18 @@
 {
-  "wacs":"6281220729369",
-  "server":[
+  "wacs": "6281220729369",
+  "server": [
     {
-      "name":"Server Utama",
-      "link":"http://192.168.1.7:3000/api/",
-      "status":1,
+      "name": "Server Utama",
+      "link": "http://192.168.1.7:3000/api/",
+      "status": 1
     },
     {
-      "name":"Server Konter",
-      "link":"http://192.168.1.7:3000/api/",
-      "status":0
+      "name": "Server Konter",
+      "link": "http://192.168.1.7:3000/api/",
+      "status": 0
     }
   ],
-  "panduan":"https://japrime.id/panduan",
-  "chanel":"https://japrime.id/panduan",
-  "group":"https://japrime.id/panduan"
+  "panduan": "https://japrime.id/panduan",
+  "chanel": "https://japrime.id/panduan",
+  "group": "https://japrime.id/panduan"
 }
