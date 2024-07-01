@@ -1,24 +1,24 @@
 {
-  "data":[
+  "data": [
     {
-      "code":"HALLO",
-      "name":"Halo Postpaid"
+      "code": "HALLO",
+      "name": "Halo Postpaid"
     },
     {
-      "code":"XLP",
-      "name":"XL Postpaid"
+      "code": "XLP",
+      "name": "XL Postpaid"
     },
     {
-      "code":"THREEP",
-      "name":"Three Postpaid"
+      "code": "THREEP",
+      "name": "Three Postpaid"
     },
     {
-      "code":"SMARTP",
-      "name":"Smartfren Postpaid"
+      "code": "SMARTP",
+      "name": "Smartfren Postpaid"
     },
     {
-      "code":"MATRIX",
-      "name":"Matrix"
+      "code": "MATRIX",
+      "name": "Matrix"
     }
   ]
 }
