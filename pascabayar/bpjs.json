@@ -1,0 +1,11 @@
+{
+  "data":[
+    {
+      "code":"BPJS",
+      "name":"Bpjs Kesehatan"
+    },
+    {
+      "code":"bpjsk",
+      "name":"Bpjs Ketanagakerjaan"
+    }
+  ]
