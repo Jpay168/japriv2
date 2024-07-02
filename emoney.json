@@ -2,52 +2,52 @@
   {
     "code": "BRI BRIZZI",
     "name": "Bri Brizzi",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/brizzi.png"
   },
   {
     "code": "DANA",
     "name": "Dana",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/dana.png"
   },
   {
     "code": "GO PAY",
     "name": "Go Pay",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/gopay.png"
   },
   {
     "code": "GRAB",
     "name": "Grab",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/grab.png"
   },
   {
     "code": "LinkAja",
     "name": "Linkaja",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/link_aja.png"
   },
   {
     "code": "MANDIRI E-TOLL",
     "name": "Mandiri E-toll",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/toll.png"
   },
   {
     "code": "MAXIM",
     "name": "Maxim",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/maxim.png"
   },
   {
     "code": "OVO",
     "name": "Ovo",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/ovo.png"
   },
   {
     "code": "Shopee Food Driver",
     "name": "Shopee Food Driver",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/shopee_pay.png"
   },
   {
     "code": "SHOPEE PAY",
     "name": "Shopee Pay",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/shopee_pay.png"
   },
   {
     "code": "TAPCASH BNI",
