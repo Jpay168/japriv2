@@ -2,23 +2,23 @@
   "data": [
     {
       "code": "HALLO",
-      "name": "Halo Postpaid"
+      "name": "Halo Pascabayar"
     },
     {
       "code": "XLP",
-      "name": "XL Postpaid"
+      "name": "XL Pascabayar"
     },
     {
       "code": "THREEP",
-      "name": "Three Postpaid"
+      "name": "Three Pascabayar"
     },
     {
       "code": "SMARTP",
-      "name": "Smartfren Postpaid"
+      "name": "Smartfren Pascabayar"
     },
     {
       "code": "MATRIX",
-      "name": "Matrix"
+      "name": "Matrix Pascabayar"
     }
   ]
 }
