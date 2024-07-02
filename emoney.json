@@ -53,12 +53,12 @@
   {
     "code": "TAPCASH BNI",
     "name": "Tapcash Bni",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/tapcash.png"
   },
   {
     "code": "TIX ID",
     "name": "Tix Id",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/Jpay168/japriv2/main/operator/tixid.png"
   }
 ]
 }
