@@ -1,5 +1,5 @@
 {
-  "data":[
+  "qr":[
     {
       "code":"QRIS",
       "name":"Scan QRIS",
@@ -7,7 +7,9 @@
       "status":1,
       "norek":"",
       "atas_nama":""
-    },
+    }
+  ];
+  "bank":[
     {
       "code":"BCA",
       "name":"Transfer Bank BCA",
